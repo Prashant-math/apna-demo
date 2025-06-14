@@ -1,4 +1,4 @@
 # apna-demo
 practice
 <br>
-Author - Prashant
+Author - Prashant (math)
